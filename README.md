@@ -4,7 +4,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/4WD_Smart_Robot_Car_Kit_LTARK_6
-
+<img src='4.jpeg' width='100%'/>
 
 ### Download
 
